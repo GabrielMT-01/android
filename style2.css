@@ -27,7 +27,7 @@
 
 body{
     background-color: #ceeada;
-    font-family: var(--fonte-padrao);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 a.externo::after{
@@ -43,7 +43,7 @@ header{
 }
 header > h1{
     color:white;
-    font-family: var(--fonte-destaque);
+    font-family: 'Bebas Neue', cursive;
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
@@ -94,12 +94,12 @@ main{
 
 main h1{
     color: #063d1e;
-    font-family: var(--fonte-android);
+    font-family: 'Android' cursive;
     font-weight: normal;
     font-size: 1.8em;
 }
 main h2{
-    font-family: var(--fonte-android);
+    font-family: 'Android' cursive;
     color: #0c6633;
     font-size: 1.3em;
     font-weight: normal;
