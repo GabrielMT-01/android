@@ -129,7 +129,7 @@ div.video > iframe{
     left: 5%;
     width: 90%;
     height: 90%;
-
+}
 main p{
     margin: 15px 0px;
     text-align: justify;
@@ -193,7 +193,7 @@ footer > p > a {
     text-decoration: none;
 }
 
-footer a::acti{
+footer a::after{
     text-decoration: underline;
     color: #c5ebd6;
 }
